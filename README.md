@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @romanced
+- 🌱 I’m currently learning Python and C++
